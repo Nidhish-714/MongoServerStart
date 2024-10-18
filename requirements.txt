@@ -1,0 +1,11 @@
+langchain
+langchain-community
+sentence-transformers
+langchain-groq
+torch
+fastembed
+pinecone-client
+pymongo
+transformers
+python-dotenv 
+flask   
