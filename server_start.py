@@ -3,7 +3,7 @@ from sentence_transformers import SentenceTransformer
 from pinecone import Pinecone
 from pymongo.mongo_client import MongoClient
 import threading
-
+# import fcntl
 app = Flask(__name__)
 
 # Function that will run the main logic
